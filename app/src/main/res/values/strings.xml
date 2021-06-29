@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Information</string>
+    <string name="btnTxt">Create Contact</string>
+    <string name="txtview">We promise that "your contacts will be safe".</string>
+    <string name="fill_up">Please Fill Up The Form</string>
+    <string name="enter_name_Aform">Enter Name</string>
+    <string name="cell_number_Aform">Cell Number</string>
+    <string name="web_profile_Aform">Web Profile</string>
+    <string name="home_location_Aform">Home Location</string>
+    <string name="SubmitTXT_Aform">Submit Info With your Satisfaction...</string>
+    <string name="invalid_name">Please Enter Valid Name</string>
+    <string name="Invalid_Number">Enter Valid Number</string>
+    <string name="Valid_Url">Enter Valid URL</string>
+    <string name="Invalid_Addreess">Enter Valid Home Address</string>
+    <string name="choose_anyone">Choose Anyone</string>
+
+
+</resources>
